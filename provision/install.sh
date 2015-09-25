@@ -10,8 +10,8 @@ apt-get install -y openjdk-7-jdk
 #postgresql and pgadmin
 apt-get install -y postgresql pgadmin3 
 
-#maven
-apt-get install -y maven
+#maven and ant
+apt-get install -y maven ant
 
 #config postgres
 sudo -u postgres bash -c "psql -c \"CREATE USER vagrant WITH PASSWORD 'vagrant';\""

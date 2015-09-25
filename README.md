@@ -1,4 +1,4 @@
-Vagrant box with Oracle JDK7 and PostgreSQL
+Vagrant box with LUbuntu + JDK7 + PostgreSQL + Maven + Ant
 ===========
 
 Virtual box with Lubuntu + JDK 7 + PostgreSQL + Maven
